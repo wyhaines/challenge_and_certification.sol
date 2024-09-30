@@ -1,2 +1,2 @@
-# challenge_and_certification.sol
-This is a snapshot of work that was done on a set of contracts intended to implement a system that could be used to assess the results of questions or challenges. It would reward correct responses with NFTs. This repo is intended for educational purposes only. The code here is not complete/debugged/vetted.
+# Challenge abd Certifications Solidity Contracts
+This is a (incomplete) collection of smart contracts and resources which are intended to form the backbone of a smart-contract-managed educational challenge and certification program. The code is relatively untested, and unvetted, but may be of educational use.
